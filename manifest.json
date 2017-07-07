@@ -5,6 +5,9 @@
   "description": "This extension removes the annoying Refer a Friend from Hulu",
   "version": "1.0",
 
+  "browser_action": {
+    "default_icon": "icon.png"
+  },
   "content_scripts": [
     {
         "matches": ["https://www.hulu.com/*"],
