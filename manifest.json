@@ -1,0 +1,17 @@
+{
+  "manifest_version": 2,
+
+  "name": "Lonely Hulu",
+  "description": "This extension removes the annoying Refer a Friend from Hulu",
+  "version": "1.0",
+
+  "content_scripts": [
+    {
+        "matches": ["https://www.hulu.com/*"],
+        "js": ["content_script.js"]
+    }
+  ],
+  "permissions": [
+    "activeTab"
+  ]
+}
