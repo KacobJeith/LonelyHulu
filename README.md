@@ -5,6 +5,8 @@ If you have recently watched Hulu on your computer, you may have experienced a m
 
 With the LonerHulu chrome extension, you can binge on your favorite Hulu shows without that giant green button reminding you that your friends are probably doing cooler things than you are right now. 
 
+[Link to Chrome Extension Install](https://chrome.google.com/webstore/detail/loner-hulu/doccdfcideapgphmoflilmpkjndlglfh?hl=en)
+
 ## Before: 
 ![BeforeImage](/BeforeLonerHulu.png "Before LonerHulu")
 
@@ -13,7 +15,9 @@ With the LonerHulu chrome extension, you can binge on your favorite Hulu shows w
 ![AfterImage](/AfterLonerHulu.png "After LonerHulu")
 
 # Installation
-Someday I may upload this to the Chrome Extension Store, but for now, you can try it out by installing it manually. 
+The easiest way to use this is to download it directly from the [Chrome Extension Store](https://chrome.google.com/webstore/detail/loner-hulu/doccdfcideapgphmoflilmpkjndlglfh?hl=en)!
+
+But this is Github, so here are the manual instructions if you want to tinker:
 
 1. Open a terminal (or command prompt if you use Windows)
 2. Navigate to the directory you'd like to clone this repository in, and run the following command:
